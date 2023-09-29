@@ -1,6 +1,6 @@
 ---
 title: Refried Black Bean Taquitos
-image: /img/recipes/refried-bean-taquitos.jpg
+image: /recipes/img/refried-bean-taquitos.jpg
 tags:
   - Beans 🌱
   - Taquitos 🌮

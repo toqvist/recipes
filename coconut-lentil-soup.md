@@ -1,27 +1,27 @@
 ---
 title: Coconut lentil soup
-image: /img/recipes/coconut-lentil-soup.jpg
+image: /recipes/img/coconut-lentil-soup.jpg
 tags:
-    - Soup 🥣
-    - Vegetarian 🌿
-    - Vegan 🌱
+  - Soup 🥣
+  - Vegetarian 🌿
+  - Vegan 🌱
 sourceLabel: Bon Appétit
 sourceURL: https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup
 servings: 4
 ingredients:
-- 1 large onion
-- 6 garlic cloves
-- 3 tablespoons of grated ginger
-- 2 tablespoons virgin coconut oil
-- 5 teaspoons curry powder
-- 0.5 teaspoon cayenne pepper
-- 400g can unsweetened coconut milk
-- 150g split red lentils
-- 8 tablespoons unsweetened shredded coconut
-- 2 teaspoons kosher salt
-- 300g spinach
-- 1 can crushed tomatoes
-- plain whole-milk or non-dairy yogurt (for serving; optional)
+  - 1 large onion
+  - 6 garlic cloves
+  - 3 tablespoons of grated ginger
+  - 2 tablespoons virgin coconut oil
+  - 5 teaspoons curry powder
+  - 0.5 teaspoon cayenne pepper
+  - 400g can unsweetened coconut milk
+  - 150g split red lentils
+  - 8 tablespoons unsweetened shredded coconut
+  - 2 teaspoons kosher salt
+  - 300g spinach
+  - 1 can crushed tomatoes
+  - plain whole-milk or non-dairy yogurt (for serving; optional)
 ---
 
 Peel 1 onion and chop. Smash 6 garlic cloves with the flat side of your knife. Peel, then finely chop. Peel the ginger with a small spoon, then finely chop.

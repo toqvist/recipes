@@ -1,6 +1,6 @@
 ---
 title: Tahini Sauce
-image: /img/recipes/tahini-sauce.jpeg
+image: /recipes/img/tahini-sauce.jpeg
 sourceURL: https://youtu.be/JCbDYulk28U?si=tc81suFsLnKiIFhl&t=90
 tags:
   - Sauce 🍶

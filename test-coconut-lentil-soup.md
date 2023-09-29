@@ -1,6 +1,6 @@
 ---
 title: test Coconut lentil soup
-image: /img/recipes/coconut-lentil-soup.jpg
+image: /recipes/img/coconut-lentil-soup.jpg
 tags: []
 servings: ""
 sourceLabel: ""

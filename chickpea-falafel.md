@@ -1,6 +1,6 @@
 ---
 title: Chickpea Falafel
-image: /img/recipes/chickpea-falafel.jpeg
+image: /recipes/img/chickpea-falafel.jpeg
 tags:
   - Chickpeas 🌿
 sourceLabel: Zeinas Kitchen (with modifications)

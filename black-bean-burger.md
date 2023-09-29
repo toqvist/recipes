@@ -1,6 +1,6 @@
 ---
 title: Black Bean Burger
-image: /img/recipes/black-bean-burger.jpg
+image: /recipes/img/black-bean-burger.jpg
 tags:
   - Burger 🍔
 sourceLabel: She Likes Food

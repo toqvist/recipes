@@ -1,6 +1,6 @@
 ---
 title: Arroz Verde (Green Rice)
-image: /img/recipes/arroz-verde.jpg
+image: /recipes/img/arroz-verde.jpg
 tags:
   - Rice 🍚
 time: 40 min + 10 min resting

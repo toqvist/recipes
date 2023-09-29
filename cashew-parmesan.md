@@ -1,6 +1,6 @@
 ---
 title: Cashew Parmesan
-image: /img/recipes/cashew-parmesan.webp
+image: /recipes/img/cashew-parmesan.webp
 tags:
   - Cheese 🧀
   - Condiment 🍶
